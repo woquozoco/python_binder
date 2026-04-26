@@ -1,0 +1,10 @@
+# Specification of a Python environment which when built can execute all code
+# in this repository
+name: python-environment
+channels:
+  - conda-forge
+dependencies:
+  - ipympl  # enabling of interactive features of `matplotlib` in Jupyter notebooks
+  - matplotlib  # visualization with plots
+  - numpy  # numerical computing with arrays
+  - python  # interpreter and standard library
