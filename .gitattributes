@@ -1,7 +1,7 @@
-# Set the default text handling behavior for repository files to automatic (i.e. Github automatically decides)
-* text=auto
-
-# Ensure that the following file types always contain Linux-type LF line endings upon checkout from Github
-*.ipynb text eol=lf
-*.py text eol=lf
-*.yml text eol=lf
+# Automatically enforce use of Linux-type (LF) line endings for the following text file types.
+*.ipy text eof=lf
+*.ipynb text eof=lf
+*.md text eof=lf
+*.py text eof=lf
+*.txt text eof=lf
+*.yml text eof=lf
