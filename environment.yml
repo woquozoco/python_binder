@@ -5,6 +5,7 @@ channels:
   - conda-forge
 dependencies:
   - ipympl  # enabling of interactive features of `matplotlib` in Jupyter notebooks
+  - jupyterhub  # running Jupyter notebooks in a web environment
   - matplotlib  # visualization with plots
   - numpy  # numerical computing with arrays
   - python  # interpreter and standard library
