@@ -4,4 +4,4 @@ This is a Python Binder repository: a repository with Python code files that a B
 
 Clicking on the badge below will launch a live session for this repository on [mybinder.org](https://mybinder.org):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/woquozoco/python_binder/HEAD?urlpath=lab/tree/ipynb){:target="_blank"}
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/woquozoco/python_binder/HEAD?urlpath=lab/tree/ipynb)
