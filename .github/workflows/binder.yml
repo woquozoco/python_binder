@@ -10,6 +10,6 @@ jobs:
       with:
         DOCKER_USERNAME: ${{ vars.DOCKER_USERNAME }}
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
-        NO_PUSH: true
+        MYBINDERORG_CACHE: true
         MYBINDERORG_TAG: ${{ github.event.ref }} # This builds the container on mybinder.org with the branch that was pushed on.
         
