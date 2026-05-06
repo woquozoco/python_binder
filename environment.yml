@@ -7,4 +7,5 @@ dependencies:
   - ipympl  # enabling of interactive features of `matplotlib` in Jupyter notebooks
   - matplotlib  # visualization with plots
   - numpy  # numerical computing with arrays
+  - plotly  # visualization with plots
   - python  # interpreter and standard library
